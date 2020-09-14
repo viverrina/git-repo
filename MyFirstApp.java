@@ -4,5 +4,6 @@ public class MyFirstApp {
 // 	System.out.println("Потом удалить");
 // 	System.out.println("И это тоже удалить");
 // еще раз пишем
+// новая строка
 	}
 }
