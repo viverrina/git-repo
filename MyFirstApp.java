@@ -3,5 +3,6 @@ public class MyFirstApp {
 	System.out.println("Привет");
 // 	System.out.println("Потом удалить");
 // 	System.out.println("И это тоже удалить");
+// еще раз пишем
 	}
 }
